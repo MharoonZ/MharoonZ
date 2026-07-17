@@ -23,53 +23,42 @@
 
 ## 🧠 About Me
 
-```python
-#!/usr/bin/env python3
-# ============================================================
-#   MIAN HAROON ZAHID — AI Engineer & Python Developer
-# ============================================================
+<div align="center">
 
-class HaroonZahid:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🇵🇰+Based+in+Lahore%2C+Pakistan;🎓+COMSATS+University+Lahore+—+BSE+2023–2027;⭐+Top+Rated+Upwork+·+100%25+JSS+·+13+Clients;🌍+Delivered+for+USA+%7C+EU+%7C+Global+Clients;💡+%22Ship+real+systems.+Not+demos.+Not+wrappers.%22" />
 
-    name        = "Mian Haroon Zahid"
-    location    = "Lahore, Pakistan 🇵🇰"
-    university  = "COMSATS University Lahore — BSE (2023–2027)"
-    
-    freelance   = {
-        "platform"  : "Upwork",
-        "status"    : "⭐ Top Rated",
-        "jss"       : "100%",
-        "projects"  : 13,
-        "clients"   : "USA 🇺🇸 | EU 🇪🇺 | Global 🌍",
-    }
+</div>
 
-    current_focus = [
-        "🏥  Production Healthcare AI  →  HL7 FHIR + AWS Comprehend Medical",
-        "🤖  Agentic LLM Pipelines     →  GPT-4, Gemini, vLLM, RAG",
-        "⚡  FastAPI AI Backends        →  REST APIs, Docker, PostgreSQL",
-        "🔬  Fine-Tuning + Evaluation  →  LoRA, ROUGE, BLEU, F1",
-        "🚀  Cloud LLM Inference       →  Modal GPU, CUDA, vLLM",
-    ]
+<br/>
 
-    achievements = [
-        "🏆  Top Rated Upwork · 100% Job Success Score",
-        "🎯  13 International Client Projects Delivered",
-        "🥈  Runner-Up — IEEE Game of Code 2.0",
-        "🎓  Full Scholarship Holder — Academic Excellence",
-        "⚡  Sub-200ms LLM Inference Latency (Production)",
-        "📉  ~70% Reduction in Manual Clinical Data Extraction",
-    ]
+<div align="center">
 
-    philosophy = "Ship real systems. Not demos. Not wrappers. Real."
+**🔭 Currently Working On**
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something real 🚀")
+![Healthcare AI](https://img.shields.io/badge/🏥_Healthcare_AI-HL7_FHIR_+_AWS_Comprehend-A855F7?style=for-the-badge)
+![LLM Pipelines](https://img.shields.io/badge/🤖_LLM_Pipelines-GPT--4_·_Gemini_·_vLLM-EC4899?style=for-the-badge)
+![FastAPI Backends](https://img.shields.io/badge/⚡_FastAPI_Backends-REST_APIs_·_Docker-14B8A6?style=for-the-badge)
+![Fine Tuning](https://img.shields.io/badge/🔬_Fine--Tuning-LoRA_·_ROUGE_·_BLEU-F59E0B?style=for-the-badge)
+![Cloud LLM](https://img.shields.io/badge/🚀_Cloud_LLM-Modal_GPU_·_CUDA_·_vLLM-3B82F6?style=for-the-badge)
 
-me = HaroonZahid()
-me.say_hi()
-```
+</div>
 
----
+<br/>
+
+<div align="center">
+
+**🏆 Achievements**
+
+| | |
+|:---|:---|
+| ⭐ **Top Rated Upwork** | 100% Job Success Score |
+| 🎯 **13 Projects Delivered** | International clients across 3+ countries |
+| 🥈 **Runner-Up** | IEEE Game of Code 2.0 |
+| 🎓 **Full Scholarship** | Awarded for Academic Excellence |
+| ⚡ **Sub-200ms Latency** | Production LLM Inference System |
+| 📉 **~70% Reduction** | Manual Clinical Data Extraction |
+
+</div>
 
 ## 📊 Impact Numbers
 
